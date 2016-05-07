@@ -6,7 +6,6 @@
 #                        Created by                     #
 #                       Dumitru Vulpe                   #
 #                         22/2/2016                     #
-#                          Push 2                       #
 #########################################################
 
 echo "What username do you want?"
@@ -47,3 +46,6 @@ echo "Restarting the pptpd server"
 /etc/init.d/pptpd restart
 
 sysctl -p
+
+echo "Everything done"
+echp "A system restart might be needed"
