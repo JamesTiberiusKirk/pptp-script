@@ -1,10 +1,12 @@
 #!/bin/bash
+
 #########################################################
 # This script will create and configure a pptpd server  #
 #                                                       #
 #                        Created by                     #
 #                       Dumitru Vulpe                   #
 #                         22/2/2016                     #
+#                          Push 2                       #
 #########################################################
 
 echo "What username do you want?"
