@@ -11,6 +11,7 @@
 echo "What username do you want?"
 read uname
 echo "What password do you want?"
+echo "Be aware, the password will be displayed on screen!"
 read passw
 
 
