@@ -48,4 +48,4 @@ echo "Restarting the pptpd server"
 sysctl -p
 
 echo "Everything done"
-echp "A system restart might be needed"
+echo "A system restart might be needed"
